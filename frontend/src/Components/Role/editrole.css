@@ -1,0 +1,26 @@
+.form-container {
+    width: 400px; /* Adjust the width as needed */
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f8f9fa; /* Light grey background */
+  }
+  
+  .form-label {
+    font-weight: bold;
+    color: black;
+  }
+  
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    font-weight: bold;
+  }
+  
+
+  .custom-modal-bg .modal-content {
+    background-color: #E6FF94; /* Replace this with your desired background color */
+  }
+  

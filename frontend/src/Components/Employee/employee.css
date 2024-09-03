@@ -1,0 +1,10 @@
+.bordered-form {
+    border: 4px solid #cccccc; 
+    padding: 15px; 
+    border-radius: 10px; 
+  }
+
+  .custom-select {
+    background-color: #9bc015;
+    color: #333;
+  }
